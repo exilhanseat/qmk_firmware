@@ -16,7 +16,7 @@
 /* define direct pins used */
 #define DIRECT_PINS                          \
     {                                        \
-        {D1, D0, D4, C6}, { D7, E6, B4, B5 } \
+        {E6, D7, B6, B2}, {B5, B4, B3, B1} \
     }
 
 /* Set 0 if debouncing isn't needed */
